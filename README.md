@@ -1,2 +1,2 @@
-# image_sorter
+# Image sorter
 Comvolutional neural network that detects the category to which a given image belongs.
